@@ -16,4 +16,4 @@ for (int i = 1; i<=numero; i++)
     }
 }
 
-Console.WriteLine($"Los cantidad de números pares son {cantidad}");
+Console.WriteLine($"Los cantidad de números positivos son {cantidad}");
