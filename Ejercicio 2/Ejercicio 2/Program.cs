@@ -3,6 +3,6 @@ for (int i=1; i<=20; i++)
 {
     Console.Write(i + " ");
 }
-Console.WriteLine();
+Console.WriteLine("");
 
 
